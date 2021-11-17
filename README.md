@@ -3,4 +3,4 @@
 
 Developed with codepen.
 
-Project page
+[Project page](https://marianazancheta.github.io/TournamentTable/)
